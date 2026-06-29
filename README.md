@@ -150,6 +150,12 @@ Predict Image Class
 
 ---
 
+## 🧠 CNN Workflow Illustration
+
+<p align="center">
+  <img src="images/CNN.png" alt="CNN Workflow" width="1000"/>
+</p>
+
 # ⚙️ Data Preprocessing
 
 ## 1. Loading the Dataset
