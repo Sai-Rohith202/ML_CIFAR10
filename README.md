@@ -410,11 +410,4 @@ Aspiring AI & Machine Learning Engineer
 
 Interested in Artificial Intelligence, Deep Learning, Computer Vision, Data Science, and Full-Stack Development.
 
----
-
-# ⭐ If You Like This Project
-
-If you found this project useful, consider giving it a ⭐ on GitHub. It motivates me to build and share more AI and Machine Learning projects.
-
----
 
